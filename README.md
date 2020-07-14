@@ -2,8 +2,6 @@
 
 유니티 튜토리얼<p>
 https://github.com/raoted/Unity_Tutorial.git <p>
-케이디 유용한 스킬<p>
-https://github.com/raoted/Unity_UsefulSkill.git <p>
 옷입히기 (DressUp) <p>
 https://github.com/raoted/Dressup.git <p>
 포톤 네트워크 실습 <p>
